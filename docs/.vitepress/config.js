@@ -1,3 +1,6 @@
+// Import lightbox plugin
+import lightbox from "vitepress-plugin-lightbox";
+
 module.exports = {
     title: 'Silih-Silih Kambing', // appended to all page titles
     description: 'Dokumentasi Animasi Silih-Silih Kambing',
@@ -5,6 +8,10 @@ module.exports = {
     head: [['link', { rel: 'icon', href: '/favicon.gif' }]],
     cleanUrls: true,
     markdown: {
+      config: (md) => {
+        // Use lightbox plugin
+        md.use(lightbox, {});
+      },
         image: {
             lazyLoading: true
         }
