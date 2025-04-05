@@ -2,7 +2,7 @@
 title: "Action Keys"
 description: "Action keys pada Blender"
 ---
-# {{ $frontmatter.title }}
+# Action Keys
 Cara menyimpan beberapa gerakan pada karakter menggunakan ```Action Keys``` di Blender
 <iframe
   src="https://www.youtube.com/embed/qS--8hR05jg"

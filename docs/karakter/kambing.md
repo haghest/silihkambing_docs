@@ -2,7 +2,7 @@
 title: "Kambing"
 description: "Semua referensi tentang Kambing"
 ---
-# {{ $frontmatter.title }}
+# Karakter Kambing
 Semua referensi tentang Kambing
 ::: info
 Sebelum membuat Aset, pastikan menggunakan Blender versi 3.6 agar dapat dibuka melalui PC INSTIKI

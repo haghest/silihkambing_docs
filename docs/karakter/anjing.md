@@ -2,7 +2,7 @@
 title: Anjing
 description: "Semua referensi tentang Anjing"
 ---
-# {{ $frontmatter.title }}
+# Karakter Anjing
 Semua referensi tentang Anjing
 ::: info
 Sebelum membuat asset, pastikan menggunakan Blender versi 3.6 agar dapat dibuka melalui PC INSTIKI

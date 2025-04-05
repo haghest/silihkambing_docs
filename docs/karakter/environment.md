@@ -2,7 +2,7 @@
 title: "Environment"
 description: "Semua referensi tentang Environment"
 ---
-# {{ $frontmatter.title }}
+# Environment
 Semua referensi tentang Environment
 ::: info
 Sebelum membuat Aset, pastikan menggunakan Blender versi 3.6 agar dapat dibuka melalui PC INSTIKI

@@ -2,7 +2,7 @@
 title: "Camera Follow"
 description: "Cara Camera Follow di Blender"
 ---
-# {{ $frontmatter.title }}
+# Camera Follow
 Cara agar kamera mengikuti sebuah objek/Follow menggunakan Copy Location.
 <iframe
   src="https://www.youtube.com/embed/ENUqCXEkvGo"

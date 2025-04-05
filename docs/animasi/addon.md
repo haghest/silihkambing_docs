@@ -2,7 +2,7 @@
 title: "Tools dan Add-ons"
 description: "Tools dan Add-ons yang digunakan pada projek animasi ini"
 ---
-# {{ $frontmatter.title }}
+# Tools dan Add-ons
 Tools dan Add-ons yang digunakan pada projek animasi ini
 [[toc]]
 ## Cara Install Addons

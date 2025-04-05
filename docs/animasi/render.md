@@ -2,7 +2,7 @@
 title: "Panduan Render"
 description: "Panduan yang harus di cek sebelum render."
 ---
-# {{ $frontmatter.title }}
+# Panduan Render
 Panduan yang harus di cek sebelum render.
 ## Render menggunakan EEVEE
 Semua animasi dirender menggunakan ```EEVEE``` agar lebih cepat. Pastikan bukan Cycles.

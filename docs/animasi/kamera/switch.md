@@ -2,7 +2,7 @@
 title: "Switch Kamera"
 description: "Cara Switch Kamera di Blender"
 ---
-# {{ $frontmatter.title }}
+# Switch Kamera
 Cara berpindah dari kamera satu ke kamera lainnya dalam sebuah scene.
 <iframe
   width="100%"

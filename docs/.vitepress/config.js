@@ -17,7 +17,7 @@ module.exports = {
           },
         sidebar: [
             {
-             
+              text: 'Links',
               items: [
                 { text: 'Introduction', link: '/' },
                 { text: 'Google Drive', link: 'https://s.id/silihkambing' },
