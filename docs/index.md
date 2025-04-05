@@ -1,6 +1,6 @@
 ---
-title: Introduction
-description: "Semua referensi tentang Environment"
+title: Silih-Silih Kambing
+description: "Dokumentasi animasi Silih-silih Kambing"
 ---
 # Silih-Silih Kambing
 
