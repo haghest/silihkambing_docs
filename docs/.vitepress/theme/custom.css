@@ -1,0 +1,12 @@
+img {
+    border-radius: 5px;
+    margin: 15px 0px;
+}
+
+iframe {
+    aspect-ratio: 16 / 9;
+    width: 100% !important;
+    border-radius: 5px;
+    margin: 15px 0px;
+}
+
