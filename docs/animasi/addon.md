@@ -39,7 +39,7 @@ Addon untuk melakukan memudahkan melakukan scattering pada sebuah objek. Addon i
 <a href="https://gscatter.com" target="_blank">Download GScatter</a>
 
 ## Sapling Tree Gen
-Addon membuat vegetasi seperti pohon di Blender.
+Addon membuat vegetasi seperti pohon di Blender. Ini merupakan addon bawaan Blender, tinggal mengaktifkannya melalui halaman Add-ons
 <iframe
   src="https://www.youtube.com/embed/d7N-Ju7jfrw"
   title="YouTube video player"
