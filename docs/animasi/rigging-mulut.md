@@ -4,7 +4,7 @@ description: "Melakukan rigging mulut pada karakter di Blender"
 ---
 # Rigging Mulut
 Melakukan rigging mulut pada karakter di Blender
-Menggunakan ```Shape Keys``` untuk merigging mulut, karena gerakan mulut di Silih-silih kambing hanya keatas dan kebawah dan tidak memiliki vokal seperti A, I, U, E, O.
+Menggunakan ```Shape Keys``` untuk merigging mulut, karena gerakan mulut di Silih-silih kambing hanya keatas dan kebawah dan tidak memiliki huruf vokal.
 <iframe
   src="https://www.youtube.com/embed/yAvTDGcbRVQ"
   title="YouTube video player"

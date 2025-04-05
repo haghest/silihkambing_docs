@@ -1,11 +1,12 @@
-
 module.exports = {
     title: 'Silih-Silih Kambing', // appended to all page titles
     description: 'Dokumentasi Animasi Silih-Silih Kambing',
     lastUpdated: true,
     head: [['link', { rel: 'icon', href: '/favicon.gif' }]],
     cleanUrls: true,
-    
+    ssr: {
+      noExternal: ['vitepress-plugin-lightbox']
+    },
     markdown: {
      
         image: {
@@ -13,6 +14,8 @@ module.exports = {
         }
     },
     themeConfig: {
+      
+      
       editLink: {
         pattern: 'https://github.com/haghest/silihkambing_docs/edit/main/docs/:path',
            text: 'Edit this page on GitHub'
@@ -40,7 +43,7 @@ module.exports = {
                     { text: 'Add-ons dan Tools', link: '/animasi/addon' },
                   { text: 'Action Keys', link: '/animasi/action-keys' },
                   { text: 'Rigging Mulut', link: '/animasi/rigging-mulut' },
-                  {text: 'Camera',collapsed: false, items: [ { text: 'Follow Path', link: '/animasi/camera/follow-path' },
+                  {text: 'Camera',collapsed: false, items: [ { text: 'Camera Follow', link: '/animasi/camera/camera-follow' },
                     { text: 'Switch Camera', link: '/animasi/camera/switch' }]},
                   { text: 'Panduan Render', link: '/animasi/render' }
                 ]
