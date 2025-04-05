@@ -5,7 +5,7 @@ description: "Dokumentasi animasi Silih-Silih Kambing"
 # Silih-Silih Kambing
 
 Dokumentasi animasi Silih-silih Kambing
-<img src="/title.jpg" width="100%" className />
+![Silih-Silih Kambing](/title.jpg)
 
 <script setup>
 import { VPTeamMembers } from 'vitepress/theme'
