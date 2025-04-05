@@ -47,15 +47,24 @@ module.exports = {
                     { text: 'Switch Camera', link: '/animasi/camera/switch' }]},
                   { text: 'Panduan Render', link: '/animasi/render' }
                 ]
-              },
+            },
             {
                 text: 'Karakter',
                 items: [
                   { text: 'Anjing', link: '/karakter/anjing' },
                   { text: 'Kambing', link: '/karakter/kambing' },
-                  { text: 'Environment', link: '/karakter/environment' }
                 ]
-              },
+            },
+            {
+                text: 'Environment',
+                items: [
+                  { text: 'Hutan Pesta', link: '/environment/hutan-pesta' },
+                  { text: 'Hutan', link: '/environment/hutan' },
+                  { text: 'Padang Rumput', link: '/environment/padang-rumput' },
+                  { text: 'Sungai', link: '/environment/sungai' },
+                  { text: 'Tutorial', link: '/environment/tutorial' },
+                ]
+            },
              
           ],
           socialLinks: [
