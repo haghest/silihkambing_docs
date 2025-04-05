@@ -33,8 +33,8 @@ module.exports = {
                     { text: 'Add-ons dan Tools', link: '/animasi/addon' },
                   { text: 'Action Keys', link: '/animasi/action-keys' },
                   { text: 'Rigging Mulut', link: '/animasi/rigging-mulut' },
-                  {text: 'Kamera',collapsed: true, items: [ { text: 'Follow Path', link: '/animasi/kamera/follow-path' },
-                    { text: 'Switch Camera', link: '/animasi/kamera/switch' }]},
+                  {text: 'Camera',collapsed: false, items: [ { text: 'Follow Path', link: '/animasi/camera/follow-path' },
+                    { text: 'Switch Camera', link: '/animasi/camera/switch' }]},
                   { text: 'Panduan Render', link: '/animasi/render' }
                 ]
               },
