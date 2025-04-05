@@ -1,7 +1,9 @@
 module.exports = {
     title: 'Silih-Silih Kambing', // appended to all page titles
-    description: 'Dokumentasi',
+    description: 'Dokumentasi Animasi Silih-Silih Kambing',
     lastUpdated: true,
+    head: [['link', { rel: 'icon', href: '/favicon.gif' }]],
+    cleanUrls: true,
     markdown: {
         image: {
             lazyLoading: true
