@@ -1,6 +1,6 @@
 ---
 title: Silih-Silih Kambing
-description: "Dokumentasi animasi Silih-silih Kambing"
+description: "Dokumentasi animasi Silih-Silih Kambing"
 ---
 # Silih-Silih Kambing
 
