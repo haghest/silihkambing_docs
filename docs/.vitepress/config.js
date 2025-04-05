@@ -5,6 +5,7 @@ module.exports = {
     lastUpdated: true,
     head: [['link', { rel: 'icon', href: '/favicon.gif' }]],
     cleanUrls: true,
+    
     markdown: {
      
         image: {
@@ -12,6 +13,10 @@ module.exports = {
         }
     },
     themeConfig: {
+      editLink: {
+        pattern: 'https://github.com/haghest/silihkambing_docs/edit/main/docs/:path',
+           text: 'Edit this page on GitHub'
+      },
         docFooter: {
             prev: 'Sebelumnya',
             next: 'Selanjutnya'
