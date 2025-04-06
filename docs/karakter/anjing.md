@@ -25,8 +25,9 @@ Sebelum membuat asset, pastikan menggunakan Blender versi 3.6 agar dapat dibuka 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen
 ></iframe>
-<img width="100%"  src="/anjing/1 - cd1cda4313adfb0d382ffebc17b962735c46042f_2_1035x747.jpeg" />
-<img width="100%"  src="/rwwalkc.png" />
+
+![image](/anjing/1-cd1cda4313adfb0d382ffebc17b962735c46042f_2_1035x747.jpeg)
+![image](/rwwalkc.png)
 
 ## Modelling
 <iframe
@@ -45,21 +46,20 @@ Sebelum membuat asset, pastikan menggunakan Blender versi 3.6 agar dapat dibuka 
 ></iframe>
 
 ## Texturing
-<img width="100%"  src="/anjing/superb-cg-jc0l219a3-foureyeddog-display-chase-02.jpg" />
-<img width="100%"  src="/anjing/superb-cg-foureyeddog-effect-map02.jpg" />
-<img width="100%"  src="/anjing/superb-cg-foureyeddog-effect-map03.jpg" />
-<img width="100%"  src="/anjing/superb-cg-foureyeddog-effect-map04.jpg" />
-<img width="100%"  src="/anjing/superb-cg-foureyeddog-effect-map05.jpg" />
-<img width="100%"  src="/anjing/superb-cg-foureyeddog-effect-map06.jpg" />
+![image](/anjing/superb-cg-jc0l219a3-foureyeddog-display-chase-02.jpg)
+![image](/anjing/superb-cg-foureyeddog-effect-map02.jpg)
+![image](/anjing/superb-cg-foureyeddog-effect-map03.jpg)
+![image](/anjing/superb-cg-foureyeddog-effect-map04.jpg)
+![image](/anjing/superb-cg-foureyeddog-effect-map05.jpg)
+![image](/anjing/superb-cg-foureyeddog-effect-map06.jpg)
 
 ## Posing
 ### Attacking
-<img width="100%"   src="/anjing/attacking/istockphoto-1048217784-612x612.jpg" />
-<img width="100%"  src="/anjing/attacking/v4-460px-Tell-if-a-Dog-Is-Going-to-Attack-Step-9.jpg" />
+![image](/anjing/attacking/istockphoto-1048217784-612x612.jpg)
+![image](/anjing/attacking/v4-460px-Tell-if-a-Dog-Is-Going-to-Attack-Step-9.jpg)
 
 ### Drinking
-<img width="100%" src="/anjing/drinking.webp" />
-<img width="100%" src="/anjing/drinking/free-photo-of-white-dog-drinking-water.jpeg" />
-<img width="100%" src="/anjing/drinking/istockphoto-1357952867-612x612.jpg" />
-
+![image](/anjing/drinking.webp)
+![image](/anjing/drinking/free-photo-of-white-dog-drinking-water.jpeg)
+![image](/anjing/drinking/istockphoto-1357952867-612x612.jpg)
 

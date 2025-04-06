@@ -1,3 +1,5 @@
+import lightbox from "vitepress-plugin-lightbox";
+import { defineConfig } from "vitepress";
 module.exports = {
     title: 'Silih-Silih Kambing', // appended to all page titles
     description: 'Dokumentasi Animasi Silih-Silih Kambing',
@@ -8,14 +10,13 @@ module.exports = {
       noExternal: ['vitepress-plugin-lightbox']
     },
     markdown: {
-     
+        config: (md) =>
+          md.use(lightbox,{}),
         image: {
             lazyLoading: true
-        }
+        },
     },
     themeConfig: {
-      
-      
       editLink: {
         pattern: 'https://github.com/haghest/silihkambing_docs/edit/main/docs/:path',
            text: 'Edit this page on GitHub'
@@ -65,14 +66,12 @@ module.exports = {
                   { text: 'Tutorial', link: '/environment/tutorial' },
                 ]
             },
-             
           ],
           socialLinks: [
             // You can add any icon from simple-icons (https://simpleicons.org/):
             { icon: 'youtube', link: 'https://youtube.com/@nuvantaraa' },
             { icon: 'github', link: 'https://github.com/haghest' },
-          ]
-          
+          ]    
     },
 }
 
