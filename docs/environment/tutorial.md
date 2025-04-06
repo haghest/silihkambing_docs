@@ -1,3 +1,7 @@
+---
+outline: [2, 4]
+---
+
 # Tutorial
 Beberapa tutorial yang dapat digunakan dalam project animasi ini.
 

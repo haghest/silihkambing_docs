@@ -1,6 +1,7 @@
 ---
 title: "Kambing"
 description: "Semua referensi tentang Kambing"
+outline: [2, 4]
 ---
 # Karakter Kambing
 Semua referensi tentang Kambing

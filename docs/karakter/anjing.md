@@ -1,6 +1,7 @@
 ---
 title: Anjing
 description: "Semua referensi tentang Anjing"
+outline: [2, 4]
 ---
 # Karakter Anjing
 Semua referensi tentang Anjing
