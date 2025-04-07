@@ -52,7 +52,7 @@ Sebelum membuat Aset, pastikan menggunakan Blender versi 3.6 agar dapat dibuka m
   allowFullScreen
 ></iframe>
 
-### Kambing Kaget/Ketakutan
+### Kambing Ketakutan
 <iframe
   src="https://www.youtube.com/embed/W2b5ZjAvm28"
   title="YouTube video player"
