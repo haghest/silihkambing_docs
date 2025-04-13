@@ -13,7 +13,6 @@ export default defineConfig({
     },
     sidebar: [
       {
-        text: "Animasi",
         items: [
           { text: "Introduction", link: "/" },
           { text: "Storyboard", link: "https://drive.google.com/file/d/1rPCir-aATRFcG5sabPFIV6Oczoj8GIhv/view?usp=drive_link" },
