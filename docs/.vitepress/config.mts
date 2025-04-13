@@ -15,6 +15,14 @@ export default defineConfig({
       {
         text: "Animasi",
         items: [
+          { text: "Introduction", link: "/" },
+          { text: "Storyboard", link: "https://drive.google.com/file/d/1rPCir-aATRFcG5sabPFIV6Oczoj8GIhv/view?usp=drive_link" },
+          { text: "Script", link: "https://drive.google.com/file/d/1HZIr5_J__nsxNjsNGXm7Lf87NPV3HsbN/view?usp=drive_link" },
+        ],
+      },
+      {
+        text: "Animasi",
+        items: [
           { text: "Add-ons dan Tools", link: "/animasi/addon" },
           { text: "Action Keys", link: "/animasi/action-keys" },
           { text: "Rigging Mulut", link: "/animasi/rigging-mulut" },
