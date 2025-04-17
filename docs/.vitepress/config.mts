@@ -15,6 +15,7 @@ export default defineConfig({
       {
         items: [
           { text: "Introduction", link: "/" },
+          { text: "Google Drive", link: "https://drive.google.com/drive/u/1/folders/1x0QU7En4IWji736WK4cy7dr7FAKCBjRY" },
           { text: "Storyboard", link: "https://drive.google.com/file/d/1rPCir-aATRFcG5sabPFIV6Oczoj8GIhv/view?usp=drive_link" },
           { text: "Script", link: "https://drive.google.com/file/d/1HZIr5_J__nsxNjsNGXm7Lf87NPV3HsbN/view?usp=drive_link" },
         ],
