@@ -23,6 +23,7 @@ export default defineConfig({
       {
         text: "Animasi",
         items: [
+          { text: "Tahapan Kerja", link: "/animasi/tahapan-kerja" },
           { text: "Add-ons dan Tools", link: "/animasi/addon" },
           { text: "Action Keys", link: "/animasi/action-keys" },
           { text: "Rigging Mulut", link: "/animasi/rigging-mulut" },
