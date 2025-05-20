@@ -1,6 +1,6 @@
 # Tahapan Kerja
 
-## Penting
+## ⚠️ Penting
 
 Sebelum memulai animasi, ubah **Save Version** menjadi **0** di Blender, agar ketika save file hanya ada satu `.blend`, tidak ada `.blend1`
 ![Tipe Animasi](/panduan_kerja/versioning.png)
@@ -8,24 +8,23 @@ Sebelum memulai animasi, ubah **Save Version** menjadi **0** di Blender, agar ke
 ## Tahapan Kerja
 
 1. Download file Environment yang diperlukan dari folder [Desain Environment](https://drive.google.com/open?id=1AN5F7C0Dao5bLgSc4XfQL_XShAw8_xMX&usp=drive_fs)
-2. Jika membutuhkan **Aset Karakter Anjing**,
-   - Pilih `File-Append` di Blender
-   - Masuk ke folder `VISUAL ART/DESAIN KARAKTER/ANJING/`
-   - Pilih `Anjing_Rigged.blend` jika perlu Anjing tanpa animasi
-     ![Tipe Animasi](/panduan_kerja/tipe_anjing.png)
-   - lalu masuk ke `Collection`
-     ![Collection](/panduan_kerja/collection.png)
-   - dan Import `Anjing (Import this)`
-     ![Collection](/panduan_kerja/collection_anjing.png)
-3. Jika membutuhkan **Aset Karakter Kambing**,
-   - Pilih `File-Append` di Blender
-   - Masuk ke folder `VISUAL ART/DESAIN KARAKTER/KAMBING/`
-   - Pilih `KAMBING_RIGGED.blend` jika perlu Kambing tanpa animasi
-     ![Tipe Animasi](/panduan_kerja/tipe_kambing.png)
-   - lalu masuk ke `Collection`
-     ![Collection](/panduan_kerja/collection.png)
-   - dan Import `Kambing (Import yang ini)`
-     ![Collection](/panduan_kerja/collection_kambing.png)
+2. Memasukkan Karakter ke Environment
+<iframe
+  src="https://www.youtube.com/embed/yzR3JqcWPzw"
+  title="YouTube video player"
+  frameBorder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+></iframe>
+<iframe
+  src="https://www.youtube.com/embed/i6FU5fzsyo8"
+  title="YouTube video player"
+  frameBorder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+></iframe>
+3. Pastikan durasi animasi dengan storyboard sesuai (Jika memang lebih tidak apa apa), caranya dengan menyamakan total frame yang diperlukan pada Animatic Storyboard dengan frame di Blender
+   ![Frame](/panduan_kerja/frame.png) ![Frame](/panduan_kerja/frame_blender.png)
 4. Jika sudah selesai menganimasikan, Save di folder `ANIMASI/SEQUENCE {}/` dengan nama File sesuai di Tugas Tracking Progress contohnya `7_1 ANJING_MEDIUM LONG SHOT_PADANG RUMPUT.blend` dan ubah progress menjadi **"Done"**
    ![Done](/panduan_kerja/done.png)
 5. Nanti aku cek dulu filenya, kalo udah fix, progressnya aku ubah ke **"Checked"** yang artinya sudah aman untuk di Render.
