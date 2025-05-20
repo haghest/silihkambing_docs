@@ -23,6 +23,7 @@ Sebelum memulai animasi, ubah **Save Version** menjadi **0** di Blender, agar ke
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen
 ></iframe>
+
 3. Pastikan durasi animasi dengan storyboard sesuai (Jika memang lebih tidak apa apa), caranya dengan menyamakan total frame yang diperlukan pada Animatic Storyboard dengan frame di Blender
    ![Frame](/panduan_kerja/frame.png) ![Frame](/panduan_kerja/frame_blender.png)
 4. Jika sudah selesai menganimasikan, Save di folder `ANIMASI/SEQUENCE {}/` dengan nama File sesuai di Tugas Tracking Progress contohnya `7_1 ANJING_MEDIUM LONG SHOT_PADANG RUMPUT.blend` dan ubah progress menjadi **"Done"**
